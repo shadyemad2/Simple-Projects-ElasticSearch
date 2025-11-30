@@ -102,6 +102,9 @@ POST project_products/_bulk
 
 Create `products.py`:
 
+<img width="761" height="411" alt="test-search" src="https://github.com/user-attachments/assets/560583b0-d2c5-47d6-9f50-f354d4047214" />
+<img width="1076" height="725" alt="test-search0" src="https://github.com/user-attachments/assets/5f779013-6460-4c09-be52-7dd081e74936" />
+<img width="1085" height="615" alt="test-search1" src="https://github.com/user-attachments/assets/e4a9348d-b13c-4e21-bceb-0f9a238a258c" />
 
 
 ---
@@ -109,13 +112,12 @@ Create `products.py`:
 ## 📊 6. Kibana Dashboards
 
 ### 📈 Dashboard 1 — Top Selling Products  
-> *(Insert image: `screenshots/top_selling.png`)*
-
 ### 💰 Dashboard 2 — Highest Price Distribution (Pie Chart)  
-> *(Insert image: `screenshots/highest_prices.png`)*
+<img width="1920" height="817" alt="dashboards0" src="https://github.com/user-attachments/assets/d2c6e7ec-4dc8-45bc-afd6-1cc0e0a4024f" />
 
-### 🏷️ Dashboard 3 — Tags Distribution  
-> *(Insert image: `screenshots/tags_distribution.png`)*
+### 🏷️ Dashboard 3 — Active vs Inactive products
+<img width="1088" height="528" alt="dashboard1" src="https://github.com/user-attachments/assets/d3cc0407-a8de-4643-8a20-8344798699fb" />
+
 
 ---
 
@@ -123,7 +125,16 @@ Create `products.py`:
 
 Sample alert (price above threshold):
 
-> *(Insert image: `screenshots/alert.png`)*
+step-1
+<img width="1920" height="876" alt="alert0" src="https://github.com/user-attachments/assets/89108170-a505-4f65-bd3d-c47484c95274" />
+step-2
+<img width="1920" height="821" alt="alert1" src="https://github.com/user-attachments/assets/4e864c4c-15b0-4fd6-8b72-57b513f488bf" />
+step-3
+<img width="1912" height="880" alt="alert2" src="https://github.com/user-attachments/assets/c30a049a-04f2-4a82-ba92-95f6d4f3568d" />
+step-4
+<img width="1918" height="843" alt="alert3" src="https://github.com/user-attachments/assets/24e53f73-7a75-481a-a819-4a976e0b690f" />
+step-5
+<img width="1133" height="708" alt="alert4" src="https://github.com/user-attachments/assets/1094e76b-79a0-45f6-9e58-8fefff26bc54" />
 
 ---
 
@@ -134,12 +145,7 @@ Sample alert (price above threshold):
 ├── products.py
 ├── products.json
 ├── README.md
-└── screenshots/
-      architecture.png
-      top_selling.png
-      highest_prices.png
-      tags_distribution.png
-      alert.png
+
 ```
 
 ---
@@ -156,25 +162,11 @@ Sample alert (price above threshold):
 
 ---
 
-## 🚀 10. Perfect for Your LinkedIn / GitHub Portfolio
-
-This project shows strong skills in:
-
-- Search engines  
-- Python scripting  
-- Data indexing  
-- Cloud Elasticsearch  
-- Dashboarding  
-- Monitoring & Alerts  
-
 ---
 
-## 🎉 Done!
+## Author
+Shady Emad
 
-If you want:
-- A better diagram  
-- A GitHub description  
-- A LinkedIn post template  
-Just tell me!
+
 
 
