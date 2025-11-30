@@ -1,0 +1,101 @@
+{"index":{"_id":1}}
+{"name":"Wine - Maipo Valle Cabernet","price":152,"in_stock":38,"sold":47,"tags":["Beverage","Alcohol","Wine"],"description":"Premium Cabernet wine from Chile.","is_active":true,"created":"2004/05/13"}
+{"index":{"_id":2}}
+{"name":"Tart Shells - Savory","price":99,"in_stock":10,"sold":430,"tags":["Bakery"],"description":"Savory tart shells for baking.","is_active":true,"created":"2007/10/14"}
+{"index":{"_id":3}}
+{"name":"Chorizo and Sausage Pasta","price":25,"in_stock":24,"sold":215,"tags":["Pasta","Meat"],"description":"Fresh egg pasta with chorizo and sausage.","is_active":true,"created":"2000/11/17"}
+{"index":{"_id":4}}
+{"name":"Martini Glass","price":37,"in_stock":37,"sold":477,"tags":["Glassware"],"description":"Elegant glass for martini cocktails.","is_active":false,"created":"2008/08/17"}
+{"index":{"_id":5}}
+{"name":"Venison - Liver","price":87,"in_stock":24,"sold":261,"tags":["Meat"],"description":"Fresh venison liver cuts.","is_active":false,"created":"2002/04/26"}
+{"index":{"_id":6}}
+{"name":"Nestea - Iced Tea","price":121,"in_stock":23,"sold":431,"tags":["Beverage"],"description":"Refreshing iced tea drink.","is_active":true,"created":"2011/11/06"}
+{"index":{"_id":7}}
+{"name":"Olive Oil - Extra Virgin","price":45,"in_stock":50,"sold":300,"tags":["Beverage","Cooking"],"description":"Premium extra virgin olive oil.","is_active":true,"created":"2010/01/10"}
+{"index":{"_id":8}}
+{"name":"Chocolate Cake Mix","price":30,"in_stock":15,"sold":120,"tags":["Bakery","Dessert"],"description":"Easy chocolate cake mix for home baking.","is_active":true,"created":"2012/07/20"}
+{"index":{"_id":9}}
+{"name":"Espresso Coffee Beans","price":18,"in_stock":60,"sold":200,"tags":["Beverage","Coffee"],"description":"Fresh roasted espresso beans.","is_active":true,"created":"2013/05/11"}
+{"index":{"_id":10}}
+{"name":"Apple Juice - 1L","price":12,"in_stock":100,"sold":350,"tags":["Beverage","Juice"],"description":"Pure apple juice, no sugar added.","is_active":true,"created":"2015/03/03"}
+{"index":{"_id":11}}
+{"name":"Banana Chips","price":8,"in_stock":80,"sold":90,"tags":["Snack"],"description":"Crunchy banana chips for snacking.","is_active":true,"created":"2014/09/09"}
+{"index":{"_id":12}}
+{"name":"Gourmet Cheese - Brie","price":60,"in_stock":20,"sold":50,"tags":["Dairy","Cheese"],"description":"Soft creamy Brie cheese.","is_active":true,"created":"2011/12/12"}
+{"index":{"_id":13}}
+{"name":"Sparkling Water - 500ml","price":5,"in_stock":150,"sold":400,"tags":["Beverage","Water"],"description":"Refreshing sparkling water bottle.","is_active":true,"created":"2016/06/06"}
+{"index":{"_id":14}}
+{"name":"Organic Honey","price":25,"in_stock":40,"sold":100,"tags":["Beverage","Sweetener"],"description":"Natural organic honey jar.","is_active":true,"created":"2017/08/08"}
+{"index":{"_id":15}}
+{"name":"Pasta Penne","price":10,"in_stock":70,"sold":200,"tags":["Pasta"],"description":"High-quality penne pasta.","is_active":true,"created":"2018/02/02"}
+{"index":{"_id":16}}
+{"name":"Red Wine Glass","price":22,"in_stock":45,"sold":300,"tags":["Glassware"],"description":"Elegant glass for red wine.","is_active":true,"created":"2019/01/01"}
+{"index":{"_id":17}}
+{"name":"Sourdough Bread","price":15,"in_stock":30,"sold":180,"tags":["Bakery"],"description":"Freshly baked sourdough bread.","is_active":true,"created":"2020/03/03"}
+{"index":{"_id":18}}
+{"name":"Canned Tuna","price":12,"in_stock":60,"sold":220,"tags":["Canned Food"],"description":"High-quality canned tuna.","is_active":true,"created":"2019/07/07"}
+{"index":{"_id":19}}
+{"name":"Green Tea Bags","price":8,"in_stock":120,"sold":300,"tags":["Beverage","Tea"],"description":"Organic green tea bags.","is_active":true,"created":"2018/11/11"}
+{"index":{"_id":20}}
+{"name":"Olives - Kalamata","price":20,"in_stock":50,"sold":150,"tags":["Cooking","Vegetables"],"description":"Premium Kalamata olives.","is_active":true,"created":"2017/05/05"}
+{"index":{"_id":21}}
+{"name":"Spaghetti Pasta","price":11,"in_stock":80,"sold":210,"tags":["Pasta"],"description":"Classic spaghetti pasta.","is_active":true,"created":"2016/09/09"}
+{"index":{"_id":22}}
+{"name":"Dark Chocolate Bar","price":5,"in_stock":100,"sold":500,"tags":["Snack","Dessert"],"description":"Rich dark chocolate bar.","is_active":true,"created":"2015/12/12"}
+{"index":{"_id":23}}
+{"name":"Cooking Pan - Nonstick","price":35,"in_stock":25,"sold":140,"tags":["Kitchen"],"description":"Nonstick cooking pan 24cm.","is_active":true,"created":"2014/04/04"}
+{"index":{"_id":24}}
+{"name":"Lemonade - 1L","price":6,"in_stock":90,"sold":300,"tags":["Beverage","Juice"],"description":"Fresh lemonade drink.","is_active":true,"created":"2013/08/08"}
+{"index":{"_id":25}}
+{"name":"Coffee Mug","price":7,"in_stock":200,"sold":600,"tags":["Glassware","Coffee"],"description":"Ceramic coffee mug.","is_active":true,"created":"2012/06/06"}
+{"index":{"_id":26}}
+{"name":"Chicken Sausage","price":18,"in_stock":40,"sold":150,"tags":["Meat"],"description":"Healthy chicken sausage.","is_active":true,"created":"2011/02/02"}
+{"index":{"_id":27}}
+{"name":"Herbal Tea","price":9,"in_stock":110,"sold":250,"tags":["Beverage","Tea"],"description":"Calming herbal tea bags.","is_active":true,"created":"2010/10/10"}
+{"index":{"_id":28}}
+{"name":"Mix Nuts Pack","price":20,"in_stock":60,"sold":200,"tags":["Snack"],"description":"Healthy mixed nuts.","is_active":true,"created":"2009/09/09"}
+{"index":{"_id":29}}
+{"name":"Wine Glass Set","price":50,"in_stock":35,"sold":120,"tags":["Glassware"],"description":"Set of 6 wine glasses.","is_active":true,"created":"2008/08/08"}
+{"index":{"_id":30}}
+{"name":"Organic Yogurt","price":12,"in_stock":80,"sold":300,"tags":["Dairy"],"description":"Plain organic yogurt.","is_active":true,"created":"2007/07/07"}
+{"index":{"_id":31}}
+{"name":"Beer Bottle","price":10,"in_stock":100,"sold":500,"tags":["Beverage","Alcohol"],"description":"500ml beer bottle.","is_active":true,"created":"2006/06/06"}
+{"index":{"_id":32}}
+{"name":"Cheddar Cheese","price":30,"in_stock":40,"sold":150,"tags":["Dairy","Cheese"],"description":"Aged cheddar cheese block.","is_active":true,"created":"2005/05/05"}
+{"index":{"_id":33}}
+{"name":"Vanilla Ice Cream","price":15,"in_stock":60,"sold":220,"tags":["Dessert"],"description":"Creamy vanilla ice cream.","is_active":true,"created":"2004/04/04"}
+{"index":{"_id":34}}
+{"name":"Cooking Oil - Canola","price":18,"in_stock":50,"sold":130,"tags":["Cooking"],"description":"Canola cooking oil 1L.","is_active":true,"created":"2003/03/03"}
+{"index":{"_id":35}}
+{"name":"Green Apples","price":4,"in_stock":150,"sold":400,"tags":["Fruit"],"description":"Fresh green apples.","is_active":true,"created":"2002/02/02"}
+{"index":{"_id":36}}
+{"name":"Red Bell Pepper","price":5,"in_stock":80,"sold":180,"tags":["Vegetables"],"description":"Fresh red bell peppers.","is_active":true,"created":"2001/01/01"}
+{"index":{"_id":37}}
+{"name":"Black Tea","price":7,"in_stock":100,"sold":250,"tags":["Beverage","Tea"],"description":"Strong black tea bags.","is_active":true,"created":"2000/12/12"}
+{"index":{"_id":38}}
+{"name":"Chocolate Chip Cookies","price":6,"in_stock":90,"sold":400,"tags":["Dessert","Snack"],"description":"Homemade chocolate chip cookies.","is_active":true,"created":"1999/11/11"}
+{"index":{"_id":39}}
+{"name":"White Wine Bottle","price":120,"in_stock":30,"sold":70,"tags":["Beverage","Alcohol","Wine"],"description":"Bottle of white wine from France.","is_active":true,"created":"1998/10/10"}
+{"index":{"_id":40}}
+{"name":"Baguette Bread","price":8,"in_stock":60,"sold":220,"tags":["Bakery"],"description":"Fresh French baguette.","is_active":true,"created":"1997/09/09"}
+{"index":{"_id":41}}
+{"name":"Tomato Ketchup","price":4,"in_stock":100,"sold":500,"tags":["Condiment"],"description":"Classic tomato ketchup bottle.","is_active":true,"created":"1996/08/08"}
+{"index":{"_id":42}}
+{"name":"Soy Sauce","price":5,"in_stock":90,"sold":300,"tags":["Condiment"],"description":"Fermented soy sauce bottle.","is_active":true,"created":"1995/07/07"}
+{"index":{"_id":43}}
+{"name":"Brown Sugar","price":3,"in_stock":150,"sold":350,"tags":["Sweetener"],"description":"Natural brown sugar pack.","is_active":true,"created":"1994/06/06"}
+{"index":{"_id":44}}
+{"name":"Strawberry Jam","price":6,"in_stock":70,"sold":200,"tags":["Sweetener","Dessert"],"description":"Strawberry jam jar.","is_active":true,"created":"1993/05/05"}
+{"index":{"_id":45}}
+{"name":"Olive Oil Spray","price":10,"in_stock":40,"sold":80,"tags":["Cooking"],"description":"Olive oil spray for cooking.","is_active":true,"created":"1992/04/04"}
+{"index":{"_id":46}}
+{"name":"Carrot Sticks","price":2,"in_stock":120,"sold":180,"tags":["Vegetables","Snack"],"description":"Fresh carrot sticks for snacking.","is_active":true,"created":"1991/03/03"}
+{"index":{"_id":47}}
+{"name":"Mango Juice - 1L","price":12,"in_stock":80,"sold":200,"tags":["Beverage","Juice"],"description":"Fresh mango juice.","is_active":true,"created":"1990/02/02"}
+{"index":{"_id":48}}
+{"name":"White Chocolate","price":7,"in_stock":50,"sold":150,"tags":["Dessert"],"description":"Smooth white chocolate bar.","is_active":true,"created":"1989/01/01"}
+{"index":{"_id":49}}
+{"name":"Chicken Breast","price":20,"in_stock":60,"sold":300,"tags":["Meat"],"description":"Fresh skinless chicken breast.","is_active":true,"created":"1988/12/12"}
+{"index":{"_id":50}}
+{"name":"Greek Yogurt","price":8,"in_stock":70,"sold":220,"tags":["Dairy"],"description":"Thick Greek yogurt.","is_active":true,"created":"1987/11/11"}
+
