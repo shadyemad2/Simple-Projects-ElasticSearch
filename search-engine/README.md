@@ -1,4 +1,4 @@
-# 🔎 Simple Product Search Engine  
+# 🔎 Simple Products Search Engine  
 ### Elasticsearch SaaS + Python Fuzzy Search CLI + Kibana Dashboards & Alerts
 
 A practical mini–search-engine project built using **Elasticsearch SaaS**, a Python CLI interface with **Fuzzy Search (auto-correct)**, and full data visualization using **Kibana Dashboards & Alerts**.
