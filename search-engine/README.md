@@ -25,7 +25,8 @@ This project demonstrates the core building blocks of real search engines.
 
 ## 🏗️ 2. Architecture Diagram
 
-> *(Insert image here: `screenshots/architecture.png`)*
+<img width="4741" height="2760" alt="image" src="https://github.com/user-attachments/assets/b646acb1-b5ae-48a4-8bf0-4fa882da6cd2" />
+
 
 ```
 products.json → Elasticsearch Index
@@ -64,6 +65,8 @@ Example dataset:
 
 ### 1️⃣ Create an Index with Mappings
 
+<img width="1030" height="796" alt="mapping" src="https://github.com/user-attachments/assets/855bfab2-0958-4538-aead-a943946df4f5" />
+
 Kibana → Dev Tools:
 
 ```json
@@ -83,6 +86,8 @@ PUT project_products
 
 ### 2️⃣ Bulk Upload Your Products
 
+<img width="1920" height="755" alt="bulk" src="https://github.com/user-attachments/assets/eff632b0-6324-40fd-a5ad-5d85c504154d" />
+
 ```json
 POST project_products/_bulk
 { "index": {} }
@@ -97,90 +102,7 @@ POST project_products/_bulk
 
 Create `products.py`:
 
-```python
-from elasticsearch import Elasticsearch
 
-es = Elasticsearch(
-    cloud_id="YOUR_CLOUD_ID",
-    basic_auth=("elastic", "YOUR_PASSWORD")
-)
-
-index_name = "project_products"
-
-def search_products():
-    keyword = input("Enter search keyword: ")
-
-    tag_filter = input("Filter by tag (press Enter to skip): ")
-    max_price = input("Max price (press Enter to skip): ")
-
-    sort_choice = input("Sort by (1-Most sold, 2-Lowest price, press Enter for default): ")
-
-    query = {
-        "query": {
-            "bool": {
-                "must": [
-                    {
-                        "multi_match": {
-                            "query": keyword,
-                            "fields": ["name", "description"],
-                            "fuzziness": "AUTO"
-                        }
-                    }
-                ],
-                "filter": []
-            }
-        }
-    }
-
-    if tag_filter:
-        query["query"]["bool"]["filter"].append({"term": {"tags": tag_filter}})
-
-    if max_price:
-        query["query"]["bool"]["filter"].append(
-            {"range": {"price": {"lte": float(max_price)}}}
-        )
-
-    if sort_choice == "1":
-        query["sort"] = [{"sold": {"order": "desc"}}]
-    elif sort_choice == "2":
-        query["sort"] = [{"price": {"order": "asc"}}]
-
-    results = es.search(index=index_name, body=query)
-
-    print("\nSearch Results:")
-    if results['hits']['total']['value'] == 0:
-        print("No results found.\n")
-
-    for hit in results['hits']['hits']:
-        src = hit["_source"]
-        print(
-            f"- {src['name']} | ${src['price']} | Sold: {src['sold']} | Tags: {src['tags']}"
-        )
-
-def main():
-    print("=== Product Search CLI ===")
-    while True:
-        print("\n1. Search products")
-        print("2. Exit")
-        choice = input("Enter choice: ")
-
-        if choice == "1":
-            search_products()
-        elif choice == "2":
-            print("Goodbye!")
-            break
-        else:
-            print("Invalid choice.")
-
-if __name__ == "__main__":
-    main()
-```
-
-Run it:
-
-```bash
-python3 products.py
-```
 
 ---
 
