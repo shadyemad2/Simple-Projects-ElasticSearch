@@ -5,6 +5,7 @@ A practical mini–search-engine project built using **Elasticsearch SaaS**, a P
 
 This project simulates a real-world product search engine using a simple `products.json` dataset.
 
+<img width="4741" height="2760" alt="image" src="https://github.com/user-attachments/assets/b646acb1-b5ae-48a4-8bf0-4fa882da6cd2" />
 ---
 
 ## 📌 1. Project Overview
@@ -22,10 +23,6 @@ The system allows you to:
 This project demonstrates the core building blocks of real search engines.
 
 ---
-
-## 🏗️ 2. Architecture Diagram
-
-<img width="4741" height="2760" alt="image" src="https://github.com/user-attachments/assets/b646acb1-b5ae-48a4-8bf0-4fa882da6cd2" />
 
 
 ```
