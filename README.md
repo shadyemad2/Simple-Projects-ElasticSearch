@@ -1,4 +1,5 @@
 # Elasticsearch Projects: 
+<img width="319" height="158" alt="image" src="https://github.com/user-attachments/assets/7dc56c92-58a5-4f59-b7d9-ef3ebf078d89" />
 
 ## Project 1: Centralized Linux Log Monitoring
 Collect Linux logs via **Filebeat** → **Elasticsearch (SaaS)** → visualize in **Kibana dashboards**.  
