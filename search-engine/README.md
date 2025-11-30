@@ -118,23 +118,6 @@ Create `products.py`:
 
 ---
 
-## 🚨 6. Alerts Example
-
-Sample alert (price above threshold):
-
-step-1
-<img width="1920" height="876" alt="alert0" src="https://github.com/user-attachments/assets/89108170-a505-4f65-bd3d-c47484c95274" />
-step-2
-<img width="1920" height="821" alt="alert1" src="https://github.com/user-attachments/assets/4e864c4c-15b0-4fd6-8b72-57b513f488bf" />
-step-3
-<img width="1912" height="880" alt="alert2" src="https://github.com/user-attachments/assets/c30a049a-04f2-4a82-ba92-95f6d4f3568d" />
-step-4
-<img width="1918" height="843" alt="alert3" src="https://github.com/user-attachments/assets/24e53f73-7a75-481a-a819-4a976e0b690f" />
-step-5
-<img width="1133" height="708" alt="alert4" src="https://github.com/user-attachments/assets/1094e76b-79a0-45f6-9e58-8fefff26bc54" />
-
----
-
 ## 📂 7. Project Structure
 
 ```
