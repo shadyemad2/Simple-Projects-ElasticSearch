@@ -6,7 +6,7 @@ A practical mini–search-engine project built using **Elasticsearch SaaS**, a P
 This project simulates a real-world product search engine using a simple `products.json` dataset.
 
 <img width="4741" height="2760" alt="image" src="https://github.com/user-attachments/assets/b646acb1-b5ae-48a4-8bf0-4fa882da6cd2" />
----
+
 
 ## 📌 1. Project Overview
 
@@ -33,7 +33,7 @@ products.json → Elasticsearch Index
 
 ---
 
-## 📁 3. Dataset (products.json)
+## 📁 2. Dataset (products.json)
 
 Example dataset:
 
@@ -58,7 +58,7 @@ Example dataset:
 
 ---
 
-## 📤 4. Uploading Data to Elasticsearch SaaS
+## 📤 3. Uploading Data to Elasticsearch SaaS
 
 ### 1️⃣ Create an Index with Mappings
 
@@ -95,7 +95,7 @@ POST project_products/_bulk
 
 ---
 
-## 🐍 5. Python Search CLI (with fuzziness)
+## 🐍 4. Python Search CLI (with fuzziness)
 
 Create `products.py`:
 
@@ -106,7 +106,7 @@ Create `products.py`:
 
 ---
 
-## 📊 6. Kibana Dashboards
+## 📊 5. Kibana Dashboards
 
 ### 📈 Dashboard 1 — Top Selling Products  
 ### 💰 Dashboard 2 — Highest Price Distribution (Pie Chart)  
@@ -118,7 +118,7 @@ Create `products.py`:
 
 ---
 
-## 🚨 7. Alerts Example
+## 🚨 6. Alerts Example
 
 Sample alert (price above threshold):
 
@@ -135,7 +135,7 @@ step-5
 
 ---
 
-## 📂 8. Project Structure
+## 📂 7. Project Structure
 
 ```
 .
@@ -147,7 +147,7 @@ step-5
 
 ---
 
-## 🎯 9. What You Learn from This Project
+## 🎯 8. What You Learn from This Project
 
 ✔ How Elasticsearch indexes text  
 ✔ How to use Python to perform full-text search  
