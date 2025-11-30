@@ -1,3 +1,4 @@
+## centralized log monitoring system (Filbeat + ElasticSearch + Kibana)
 <img width="1282" height="712" alt="filebeat-conf" src="https://github.com/user-attachments/assets/8a57b7b5-8d7b-4304-adea-a6f3de3b75b3" /># Centralized Linux Log Monitoring Using Filebeat + Elasticsearch + Kibana 
 This project demonstrates a **centralized log monitoring system** for Linux servers using Filebeat, sending logs directly to **Elasticsearch** (Elastic Cloud SaaS) and visualizing them in **Kibana**. Alerts can be configured for suspicious activity such as failed SSH logins.
 
